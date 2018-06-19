@@ -1,2 +1,7 @@
-my name is sunjian
-i love you
+github 学习笔记：
+$ cd /e/github/repo     定位到某个文件夹
+$ pwd                   查看当前文件夹
+$ init                  初始化和创建.git库
+$ status                查看库状态
+$ git add sj.txt        添加文件或修改过的文件
+$ git commit -m ""      提交，可添加多个，一起提交。引号为提交时的版本说明
